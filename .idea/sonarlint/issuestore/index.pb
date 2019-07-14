@@ -13,3 +13,5 @@ P
  app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
 l
 <app/src/main/java/com/gondai/alcchallengeapp/one/Handlers.kt,5/c/5cc4cd4c8247967ac5cdbe2e08936d44d80d7449
+`
+0app/src/main/res/layout/activity_profile_alc.xml,4/4/447e0c1fd936d16d336b69b571fbbcb99ac6b969
