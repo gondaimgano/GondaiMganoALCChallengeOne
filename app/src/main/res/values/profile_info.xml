@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="track_label">Track:</string>
+    <string name="phone_number_label">Phone Number:</string>
+    <string name="slack_username_label">Slack Username:</string>
+    <string name="country_label">Country:</string>
+    <string name="email_label">Email:</string>
+    <string name="profile_name">Gondai Mgano</string>
+    <string name="my_picture_profile">My Picture</string>
+    <string name="track_caption">Android</string>
+    <string name="phone_number_caption">+263 772 235 083</string>
+    <string name="slack_username_caption">gondaimgano</string>
+    <string name="country_caption">Zimbabwe</string>
+    <string name="email_caption">gondaimgano@gmail.com</string>
+    <string name="profile_name_caption">Gondai Mgano</string>
+    <string name="my_picture_profile_caption">My Picture</string>
+</resources>
