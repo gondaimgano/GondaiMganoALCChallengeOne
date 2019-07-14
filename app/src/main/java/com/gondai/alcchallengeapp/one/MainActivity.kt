@@ -15,4 +15,9 @@ class MainActivity : AppCompatActivity() {
         binding.handler=MainScreenHandler()
 
     }
+
+    override fun onBackPressed() {
+        finish()
+        super.onBackPressed()
+    }
 }

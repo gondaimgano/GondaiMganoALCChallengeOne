@@ -36,6 +36,12 @@ class AboutALCActivity : AppCompatActivity() {
             loadUrl(context.getString(R.string.base_url)) //due to ALC certificate which expired need to place the sslerror
         }
     }
+
+    override fun onBackPressed() {
+        finish()
+        super.onBackPressed()
+
+    }
 }
 
 
